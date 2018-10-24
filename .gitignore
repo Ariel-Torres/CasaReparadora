@@ -1,0 +1,11 @@
+
+*.exe
+*.Config
+*.targets
+*.user
+*.csproj
+*.cache
+*.resources
+*.args
+*.ah
+*.ch
